@@ -19,3 +19,9 @@ print(f'A soma de {num1} + {num2} é {soma}')
 # questão 3 
 
 
+comprimento  = 30 
+largura = 10
+altura = 20 
+
+volume = comprimento * largura * altura
+print(f'Calculdo  do volume = {volume}')
